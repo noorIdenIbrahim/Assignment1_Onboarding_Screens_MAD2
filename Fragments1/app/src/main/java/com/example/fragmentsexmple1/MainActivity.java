@@ -43,9 +43,6 @@ public class MainActivity extends AppCompatActivity implements
                 .replace(R.id.container, fragment3)
                 .commit();
     }
-
-
-
     @Override
     public void onCheckboxChanged(boolean isChecked) {
 
