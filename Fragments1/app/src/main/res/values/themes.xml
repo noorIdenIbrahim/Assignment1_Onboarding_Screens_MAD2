@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FragmentsExmple1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- <item name="colorSecondary">@color/my_light_secondary</item> -->
+
+        <!-- Customize your dark theme here. -->
+
+
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <!-- <item name="colorSecondary">@color/my_dark_secondary</item> -->
+
+    </style>
+
+    <style name="Theme.FragmentsExmple1" parent="Base.Theme.FragmentsExmple1" />
+</resources>
